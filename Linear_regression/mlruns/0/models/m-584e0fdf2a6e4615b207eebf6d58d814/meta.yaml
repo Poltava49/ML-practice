@@ -1,0 +1,10 @@
+artifact_location: file:///Users/poltava/Desktop/learn/DA_DS_ML/tasks/ML_practice/Linear_regression/mlruns/0/models/m-584e0fdf2a6e4615b207eebf6d58d814/artifacts
+creation_timestamp: 1756413401190
+experiment_id: '0'
+last_updated_timestamp: 1756413404545
+model_id: m-584e0fdf2a6e4615b207eebf6d58d814
+model_type: null
+name: model
+source_run_id: fab38d1310d8401c80ffa4fb846d2524
+status: 2
+status_message: null

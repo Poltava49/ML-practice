@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/poltava/Desktop/learn/DA_DS_ML/tasks/ML_practice/Linear_regression/mlruns/0/6fcb87b01dd7460fb14725edf6320a00/artifacts
+end_time: 1756412187035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fcb87b01dd7460fb14725edf6320a00
+run_name: marvelous-mole-908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756412186391
+status: 4
+tags: []
+user_id: poltava

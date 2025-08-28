@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/poltava/Desktop/learn/DA_DS_ML/tasks/ML_practice/Linear_regression/mlruns/0/fab38d1310d8401c80ffa4fb846d2524/artifacts
+end_time: 1756413404760
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fab38d1310d8401c80ffa4fb846d2524
+run_name: capable-lamb-552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756413400469
+status: 3
+tags: []
+user_id: poltava

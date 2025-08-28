@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/poltava/Desktop/learn/DA_DS_ML/tasks/ML_practice/Linear_regression/mlruns/0/fc4cb19b7cd846b18321ed5d3e19f3fa/artifacts
+end_time: 1756411864944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc4cb19b7cd846b18321ed5d3e19f3fa
+run_name: peaceful-slug-342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756411864334
+status: 4
+tags: []
+user_id: poltava

@@ -1,0 +1,37 @@
+artifact_path: file:///Users/poltava/Desktop/learn/DA_DS_ML/tasks/ML_practice/Linear_regression/mlruns/0/models/m-584e0fdf2a6e4615b207eebf6d58d814/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+is_signature_from_type_hint: false
+mlflow_version: 3.3.0
+model_id: m-584e0fdf2a6e4615b207eebf6d58d814
+model_size_bytes: 6397
+model_uuid: m-584e0fdf2a6e4615b207eebf6d58d814
+prompts: null
+run_id: fab38d1310d8401c80ffa4fb846d2524
+signature:
+  inputs: '[{"type": "string", "name": "Podcast_Name", "required": true}, {"type":
+    "string", "name": "Episode_Title", "required": true}, {"type": "double", "name":
+    "Episode_Length_minutes", "required": true}, {"type": "string", "name": "Genre",
+    "required": true}, {"type": "double", "name": "Host_Popularity_percentage", "required":
+    true}, {"type": "string", "name": "Publication_Day", "required": true}, {"type":
+    "string", "name": "Publication_Time", "required": true}, {"type": "double", "name":
+    "Guest_Popularity_percentage", "required": false}, {"type": "long", "name": "Number_of_Ads",
+    "required": true}, {"type": "string", "name": "Episode_Sentiment", "required":
+    true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1,
+    1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-08-28 20:36:41.215857'

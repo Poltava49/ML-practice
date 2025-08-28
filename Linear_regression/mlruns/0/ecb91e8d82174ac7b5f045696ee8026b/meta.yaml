@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/poltava/Desktop/learn/DA_DS_ML/tasks/ML_practice/Linear_regression/mlruns/0/ecb91e8d82174ac7b5f045696ee8026b/artifacts
+end_time: 1756411665656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecb91e8d82174ac7b5f045696ee8026b
+run_name: sincere-cub-669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756411665101
+status: 4
+tags: []
+user_id: poltava

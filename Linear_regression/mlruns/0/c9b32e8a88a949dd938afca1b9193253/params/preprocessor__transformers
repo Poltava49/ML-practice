@@ -1,0 +1,7 @@
+[('num', Pipeline(steps=[('imputer', SimpleImputer())]), Index(['Episode_Length_minutes', 'Host_Popularity_percentage',
+       'Guest_Popularity_percentage', 'Number_of_Ads',
+       'Listening_Time_minutes'],
+      dtype='object')), ('cat', Pipeline(steps=[('imputer', SimpleImputer(strategy='most_frequent')),
+                ('ohe', OneHotEncoder(drop='first', handle_unknown='ignore'))]), Index(['Podcast_Name', 'Episode_Title', 'Genre', 'Publication_Day',
+       'Publication_Time', 'Episode_Sentiment'],
+      dtype='object'))]

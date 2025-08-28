@@ -1,0 +1,15 @@
+digest: 0eb3e60b
+name: dataset
+profile: '{"num_rows": 17325, "num_elements": 173250}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "Podcast_Name", "required":
+  true}, {"type": "string", "name": "Episode_Title", "required": true}, {"type": "double",
+  "name": "Episode_Length_minutes", "required": false}, {"type": "string", "name":
+  "Genre", "required": true}, {"type": "double", "name": "Host_Popularity_percentage",
+  "required": true}, {"type": "string", "name": "Publication_Day", "required": true},
+  {"type": "string", "name": "Publication_Time", "required": true}, {"type": "double",
+  "name": "Guest_Popularity_percentage", "required": false}, {"type": "long", "name":
+  "Number_of_Ads", "required": true}, {"type": "string", "name": "Episode_Sentiment",
+  "required": true}]}'
+source: '{"tags": {"mlflow.user": "poltava", "mlflow.source.name": "/Users/poltava/Library/Python/3.13/lib/python/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
